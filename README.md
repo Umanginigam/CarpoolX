@@ -4,22 +4,20 @@
 The **Carpooling Ride-Sharing Solution** is a web-based platform that connects drivers and riders for secure and efficient ride-sharing. The system helps reduce travel costs, traffic congestion, and carbon emissions while ensuring a smooth and user-friendly experience.
 ![PHOTO-2025-03-23-11-33-31](https://github.com/user-attachments/assets/24684fef-b471-4665-a805-ba390ed76e1e)
 ## 🎯 Features
-
-
+![image](https://github.com/user-attachments/assets/0bb40b24-6de8-4246-8aad-0b8781a71b99)
 
 ### **1. Ride Pool Creation & Joining**
 - **For Drivers:**
   - Create ride pools by providing pickup & drop locations, time, seats, vehicle details, and preferences.
   - Approve or reject rider requests.
+  - ![image](https://github.com/user-attachments/assets/459bea48-9ae0-43bc-b323-2e0ae6fd89c0)
+
 - **For Riders:**
   - Search and filter available ride pools.
   - Send a request to join a ride and receive trip details upon approval.
-![image](https://github.com/user-attachments/assets/9aafcb7d-7fa1-49c5-bbf1-369e205bfd37)
-![image](https://github.com/user-attachments/assets/8e9d70d6-6587-4776-a902-7da120b5cafb)
-![image](https://github.com/user-attachments/assets/84a8e351-80b3-4006-8fab-4b70d33f1d90)
-<img width="242" alt="Screenshot 2025-03-23 at 11 14 09 AM" src="https://github.com/user-attachments/assets/62f7ee89-7338-4436-bb63-1cd04840ee6b" />
+![image](https://github.com/user-attachments/assets/3d31d2d1-2344-4f71-a246-9df696617982)
+![image](https://github.com/user-attachments/assets/a6308052-54ba-4fab-bbde-59caca516ee8)
 
-<img width="234" alt="Screenshot 2025-03-23 at 11 14 28 AM" src="https://github.com/user-attachments/assets/1d1a1d60-8671-4172-a3c7-946ce72ebdd4" />
 
 ### **2. Intelligent Ride Matching**
 - Matches users based on proximity, route similarity, timing, and preferences.
