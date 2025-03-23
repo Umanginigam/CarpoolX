@@ -24,6 +24,7 @@ The **Carpooling Ride-Sharing Solution** is a web-based platform that connects d
 - Displays rides ranked by match percentage.
   <img width="242" alt="Screenshot 2025-03-23 at 11 14 09 AM" src="https://github.com/user-attachments/assets/4ffcc41c-164b-4d2f-a0bc-9deb5d9cbd84" />
 <img width="234" alt="Screenshot 2025-03-23 at 11 14 28 AM" src="https://github.com/user-attachments/assets/f4d01a8c-89dc-4f85-896f-144933fa3915" />
+
 ### **3. Route Matching Percentage**
 - Calculates how closely a ride aligns with a rider's route.
 - Rides are prioritized based on a percentage score.
